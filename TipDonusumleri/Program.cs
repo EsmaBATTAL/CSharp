@@ -17,13 +17,13 @@ namespace tipDonusumleri
             short c = 10;
 
             int d = a+b+c;
-            Console.Write("d : " + d);
+            Console.WriteLine("d : " + d);
 
             long h = d ;
-            Console.Write("h : " + h);
+            Console.WriteLine("h : " + h);
 
             float i = h ;
-            Console.Write("i : " + i);
+            Console.WriteLine("i : " + i);
 
 
 

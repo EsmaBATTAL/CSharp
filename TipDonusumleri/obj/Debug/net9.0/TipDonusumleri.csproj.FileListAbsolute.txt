@@ -1,0 +1,15 @@
+C:\Users\Asus\Desktop\gitRepo\CSharp\TipDonusumleri\bin\Debug\net9.0\TipDonusumleri.exe
+C:\Users\Asus\Desktop\gitRepo\CSharp\TipDonusumleri\bin\Debug\net9.0\TipDonusumleri.deps.json
+C:\Users\Asus\Desktop\gitRepo\CSharp\TipDonusumleri\bin\Debug\net9.0\TipDonusumleri.runtimeconfig.json
+C:\Users\Asus\Desktop\gitRepo\CSharp\TipDonusumleri\bin\Debug\net9.0\TipDonusumleri.dll
+C:\Users\Asus\Desktop\gitRepo\CSharp\TipDonusumleri\bin\Debug\net9.0\TipDonusumleri.pdb
+C:\Users\Asus\Desktop\gitRepo\CSharp\TipDonusumleri\obj\Debug\net9.0\TipDonusumleri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\gitRepo\CSharp\TipDonusumleri\obj\Debug\net9.0\TipDonusumleri.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\gitRepo\CSharp\TipDonusumleri\obj\Debug\net9.0\TipDonusumleri.AssemblyInfo.cs
+C:\Users\Asus\Desktop\gitRepo\CSharp\TipDonusumleri\obj\Debug\net9.0\TipDonusumleri.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\gitRepo\CSharp\TipDonusumleri\obj\Debug\net9.0\TipDonusumleri.sourcelink.json
+C:\Users\Asus\Desktop\gitRepo\CSharp\TipDonusumleri\obj\Debug\net9.0\TipDonusumleri.dll
+C:\Users\Asus\Desktop\gitRepo\CSharp\TipDonusumleri\obj\Debug\net9.0\refint\TipDonusumleri.dll
+C:\Users\Asus\Desktop\gitRepo\CSharp\TipDonusumleri\obj\Debug\net9.0\TipDonusumleri.pdb
+C:\Users\Asus\Desktop\gitRepo\CSharp\TipDonusumleri\obj\Debug\net9.0\TipDonusumleri.genruntimeconfig.cache
+C:\Users\Asus\Desktop\gitRepo\CSharp\TipDonusumleri\obj\Debug\net9.0\ref\TipDonusumleri.dll

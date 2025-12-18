@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Operatörler")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("hataYonetimi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c407bf67a4f3fb621b8f0f184a339c1c417473f4")]
-[assembly: System.Reflection.AssemblyProductAttribute("Operatörler")]
-[assembly: System.Reflection.AssemblyTitleAttribute("Operatörler")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4ffe0318b026b793cfab1596f3b9073423f84c97")]
+[assembly: System.Reflection.AssemblyProductAttribute("hataYonetimi")]
+[assembly: System.Reflection.AssemblyTitleAttribute("hataYonetimi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // MSBuild WriteCodeFragment sınıfı tarafından oluşturuldu.

@@ -1,0 +1,15 @@
+C:\Users\Asus\Desktop\gitRepo\CSharp\Operatörler\bin\Debug\net9.0\Operatörler.exe
+C:\Users\Asus\Desktop\gitRepo\CSharp\Operatörler\bin\Debug\net9.0\Operatörler.deps.json
+C:\Users\Asus\Desktop\gitRepo\CSharp\Operatörler\bin\Debug\net9.0\Operatörler.runtimeconfig.json
+C:\Users\Asus\Desktop\gitRepo\CSharp\Operatörler\bin\Debug\net9.0\Operatörler.dll
+C:\Users\Asus\Desktop\gitRepo\CSharp\Operatörler\bin\Debug\net9.0\Operatörler.pdb
+C:\Users\Asus\Desktop\gitRepo\CSharp\Operatörler\obj\Debug\net9.0\Operatörler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\gitRepo\CSharp\Operatörler\obj\Debug\net9.0\Operatörler.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\gitRepo\CSharp\Operatörler\obj\Debug\net9.0\Operatörler.AssemblyInfo.cs
+C:\Users\Asus\Desktop\gitRepo\CSharp\Operatörler\obj\Debug\net9.0\Operatörler.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\gitRepo\CSharp\Operatörler\obj\Debug\net9.0\Operatörler.sourcelink.json
+C:\Users\Asus\Desktop\gitRepo\CSharp\Operatörler\obj\Debug\net9.0\Operatörler.dll
+C:\Users\Asus\Desktop\gitRepo\CSharp\Operatörler\obj\Debug\net9.0\refint\Operatörler.dll
+C:\Users\Asus\Desktop\gitRepo\CSharp\Operatörler\obj\Debug\net9.0\Operatörler.pdb
+C:\Users\Asus\Desktop\gitRepo\CSharp\Operatörler\obj\Debug\net9.0\Operatörler.genruntimeconfig.cache
+C:\Users\Asus\Desktop\gitRepo\CSharp\Operatörler\obj\Debug\net9.0\ref\Operatörler.dll
