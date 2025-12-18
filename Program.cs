@@ -39,6 +39,53 @@ namespace DegiskenlerOdev
             DateTime dateTime = DateTime.Now;
 
             Console.WriteLine(dateTime);
+
+            object o1 = "x";
+            object o2 = 'c';
+            object o3 = 2;
+            object o4 = 4.3;
+
+            string name=string.Empty;
+            name = "Esma";
+            string isim = "Esma";
+            string soyisim = "Battal";
+            string tamisim = isim + " " +soyisim;
+
+            Console.WriteLine(tamisim);
+
+
+            int integer1 = 4;
+            int integer2 = 5;
+            int integer3 = integer1 + integer2;
+
+
+
+            bool bool1 = 10<2;
+
+
+
+
+            string str20 = "20";
+            int int20 = 20;
+            string yeniDeger = str20 + int20.ToString();
+            Console.WriteLine(yeniDeger);
+
+
+            int int21 = int20 + Convert.ToInt32(str20);
+            Console.WriteLine(int21);
+
+
+            int int22 = int20 +int.Parse(str20);
+
+
+            string date = DateTime.Now.ToString("dd.MM.yyyy");
+            Console.WriteLine(date);
+            string date2 = DateTime.Now.ToString("dd/MM/yyyy");
+            Console.WriteLine(date2);
+
+            string hour = DateTime.Now.ToString("HH:mm");
+            Console.WriteLine(hour);
+
         }
     }
 }
