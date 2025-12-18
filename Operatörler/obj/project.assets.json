@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/workspaces/CSharp/Değişkenler/Değişkenler.csproj",
-      "projectName": "Değişkenler",
-      "projectPath": "/workspaces/CSharp/Değişkenler/Değişkenler.csproj",
+      "projectUniqueName": "/workspaces/CSharp/Operatörler/Operatörler.csproj",
+      "projectName": "Operatörler",
+      "projectPath": "/workspaces/CSharp/Operatörler/Operatörler.csproj",
       "packagesPath": "/home/codespace/.nuget/packages/",
-      "outputPath": "/workspaces/CSharp/Değişkenler/obj/",
+      "outputPath": "/workspaces/CSharp/Operatörler/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/codespace/.nuget/NuGet/NuGet.Config"

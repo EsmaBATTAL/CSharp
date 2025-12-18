@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/workspaces/CSharp/CSharp.csproj": {}
+    "/workspaces/CSharp/Değişkenler/Değişkenler.csproj": {}
   },
   "projects": {
-    "/workspaces/CSharp/CSharp.csproj": {
+    "/workspaces/CSharp/Değişkenler/Değişkenler.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/workspaces/CSharp/CSharp.csproj",
-        "projectName": "CSharp",
-        "projectPath": "/workspaces/CSharp/CSharp.csproj",
+        "projectUniqueName": "/workspaces/CSharp/Değişkenler/Değişkenler.csproj",
+        "projectName": "Değişkenler",
+        "projectPath": "/workspaces/CSharp/Değişkenler/Değişkenler.csproj",
         "packagesPath": "/home/codespace/.nuget/packages/",
-        "outputPath": "/workspaces/CSharp/obj/",
+        "outputPath": "/workspaces/CSharp/Değişkenler/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/codespace/.nuget/NuGet/NuGet.Config"

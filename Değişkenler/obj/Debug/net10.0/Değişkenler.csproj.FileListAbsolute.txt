@@ -1,0 +1,15 @@
+/workspaces/CSharp/Değişkenler/bin/Debug/net10.0/Değişkenler
+/workspaces/CSharp/Değişkenler/bin/Debug/net10.0/Değişkenler.deps.json
+/workspaces/CSharp/Değişkenler/bin/Debug/net10.0/Değişkenler.runtimeconfig.json
+/workspaces/CSharp/Değişkenler/bin/Debug/net10.0/Değişkenler.dll
+/workspaces/CSharp/Değişkenler/bin/Debug/net10.0/Değişkenler.pdb
+/workspaces/CSharp/Değişkenler/obj/Debug/net10.0/Değişkenler.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/CSharp/Değişkenler/obj/Debug/net10.0/Değişkenler.AssemblyInfoInputs.cache
+/workspaces/CSharp/Değişkenler/obj/Debug/net10.0/Değişkenler.AssemblyInfo.cs
+/workspaces/CSharp/Değişkenler/obj/Debug/net10.0/Değişkenler.csproj.CoreCompileInputs.cache
+/workspaces/CSharp/Değişkenler/obj/Debug/net10.0/Değişkenler.sourcelink.json
+/workspaces/CSharp/Değişkenler/obj/Debug/net10.0/Değişkenler.dll
+/workspaces/CSharp/Değişkenler/obj/Debug/net10.0/refint/Değişkenler.dll
+/workspaces/CSharp/Değişkenler/obj/Debug/net10.0/Değişkenler.pdb
+/workspaces/CSharp/Değişkenler/obj/Debug/net10.0/Değişkenler.genruntimeconfig.cache
+/workspaces/CSharp/Değişkenler/obj/Debug/net10.0/ref/Değişkenler.dll
