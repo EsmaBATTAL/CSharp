@@ -1,4 +1,8 @@
 ﻿using System;
+using System.Data;
+using System.Diagnostics;
+using System.Reflection.Emit;
+using System.Runtime.InteropServices.Marshalling;
 
 namespace tipDonusumleri
 {
@@ -63,6 +67,22 @@ namespace tipDonusumleri
         toplam = sayi1+sayi2;
         Console.WriteLine("toplam = " +toplam);
 
+        Console.WriteLine("***** Parse Metodu *****");
+        ParseMethod();
+
+        }
+        public static void ParseMethod()
+        {
+            string metin1 = "10";
+            string metin2 = "10.25";
+            int rakam;
+            double double1;
+
+            rakam = Int32.Parse(metin1);
+            double1 =Double.Parse(metin2);
+
+            Console.WriteLine("rakam  : " + rakam);
+            Console.WriteLine("double : " + double1);
 
 
         }
