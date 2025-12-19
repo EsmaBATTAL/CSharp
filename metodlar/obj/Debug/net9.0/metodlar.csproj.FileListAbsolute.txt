@@ -1,0 +1,15 @@
+C:\Users\Asus\Desktop\gitRepo\CSharp\metodlar\bin\Debug\net9.0\metodlar.exe
+C:\Users\Asus\Desktop\gitRepo\CSharp\metodlar\bin\Debug\net9.0\metodlar.deps.json
+C:\Users\Asus\Desktop\gitRepo\CSharp\metodlar\bin\Debug\net9.0\metodlar.runtimeconfig.json
+C:\Users\Asus\Desktop\gitRepo\CSharp\metodlar\bin\Debug\net9.0\metodlar.dll
+C:\Users\Asus\Desktop\gitRepo\CSharp\metodlar\bin\Debug\net9.0\metodlar.pdb
+C:\Users\Asus\Desktop\gitRepo\CSharp\metodlar\obj\Debug\net9.0\metodlar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\gitRepo\CSharp\metodlar\obj\Debug\net9.0\metodlar.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\gitRepo\CSharp\metodlar\obj\Debug\net9.0\metodlar.AssemblyInfo.cs
+C:\Users\Asus\Desktop\gitRepo\CSharp\metodlar\obj\Debug\net9.0\metodlar.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\gitRepo\CSharp\metodlar\obj\Debug\net9.0\metodlar.sourcelink.json
+C:\Users\Asus\Desktop\gitRepo\CSharp\metodlar\obj\Debug\net9.0\metodlar.dll
+C:\Users\Asus\Desktop\gitRepo\CSharp\metodlar\obj\Debug\net9.0\refint\metodlar.dll
+C:\Users\Asus\Desktop\gitRepo\CSharp\metodlar\obj\Debug\net9.0\metodlar.pdb
+C:\Users\Asus\Desktop\gitRepo\CSharp\metodlar\obj\Debug\net9.0\metodlar.genruntimeconfig.cache
+C:\Users\Asus\Desktop\gitRepo\CSharp\metodlar\obj\Debug\net9.0\ref\metodlar.dll
