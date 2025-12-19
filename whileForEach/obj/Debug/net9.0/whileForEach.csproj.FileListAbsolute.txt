@@ -1,0 +1,15 @@
+C:\Users\Asus\Desktop\gitRepo\CSharp\whileForEach\bin\Debug\net9.0\whileForEach.exe
+C:\Users\Asus\Desktop\gitRepo\CSharp\whileForEach\bin\Debug\net9.0\whileForEach.deps.json
+C:\Users\Asus\Desktop\gitRepo\CSharp\whileForEach\bin\Debug\net9.0\whileForEach.runtimeconfig.json
+C:\Users\Asus\Desktop\gitRepo\CSharp\whileForEach\bin\Debug\net9.0\whileForEach.dll
+C:\Users\Asus\Desktop\gitRepo\CSharp\whileForEach\bin\Debug\net9.0\whileForEach.pdb
+C:\Users\Asus\Desktop\gitRepo\CSharp\whileForEach\obj\Debug\net9.0\whileForEach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\gitRepo\CSharp\whileForEach\obj\Debug\net9.0\whileForEach.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\gitRepo\CSharp\whileForEach\obj\Debug\net9.0\whileForEach.AssemblyInfo.cs
+C:\Users\Asus\Desktop\gitRepo\CSharp\whileForEach\obj\Debug\net9.0\whileForEach.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\gitRepo\CSharp\whileForEach\obj\Debug\net9.0\whileForEach.sourcelink.json
+C:\Users\Asus\Desktop\gitRepo\CSharp\whileForEach\obj\Debug\net9.0\whileForEach.dll
+C:\Users\Asus\Desktop\gitRepo\CSharp\whileForEach\obj\Debug\net9.0\refint\whileForEach.dll
+C:\Users\Asus\Desktop\gitRepo\CSharp\whileForEach\obj\Debug\net9.0\whileForEach.pdb
+C:\Users\Asus\Desktop\gitRepo\CSharp\whileForEach\obj\Debug\net9.0\whileForEach.genruntimeconfig.cache
+C:\Users\Asus\Desktop\gitRepo\CSharp\whileForEach\obj\Debug\net9.0\ref\whileForEach.dll
