@@ -1,0 +1,15 @@
+C:\Users\Asus\Desktop\gitRepo\CSharp\diziler\bin\Debug\net9.0\diziler.exe
+C:\Users\Asus\Desktop\gitRepo\CSharp\diziler\bin\Debug\net9.0\diziler.deps.json
+C:\Users\Asus\Desktop\gitRepo\CSharp\diziler\bin\Debug\net9.0\diziler.runtimeconfig.json
+C:\Users\Asus\Desktop\gitRepo\CSharp\diziler\bin\Debug\net9.0\diziler.dll
+C:\Users\Asus\Desktop\gitRepo\CSharp\diziler\bin\Debug\net9.0\diziler.pdb
+C:\Users\Asus\Desktop\gitRepo\CSharp\diziler\obj\Debug\net9.0\diziler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\gitRepo\CSharp\diziler\obj\Debug\net9.0\diziler.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\gitRepo\CSharp\diziler\obj\Debug\net9.0\diziler.AssemblyInfo.cs
+C:\Users\Asus\Desktop\gitRepo\CSharp\diziler\obj\Debug\net9.0\diziler.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\gitRepo\CSharp\diziler\obj\Debug\net9.0\diziler.sourcelink.json
+C:\Users\Asus\Desktop\gitRepo\CSharp\diziler\obj\Debug\net9.0\diziler.dll
+C:\Users\Asus\Desktop\gitRepo\CSharp\diziler\obj\Debug\net9.0\refint\diziler.dll
+C:\Users\Asus\Desktop\gitRepo\CSharp\diziler\obj\Debug\net9.0\diziler.pdb
+C:\Users\Asus\Desktop\gitRepo\CSharp\diziler\obj\Debug\net9.0\diziler.genruntimeconfig.cache
+C:\Users\Asus\Desktop\gitRepo\CSharp\diziler\obj\Debug\net9.0\ref\diziler.dll
