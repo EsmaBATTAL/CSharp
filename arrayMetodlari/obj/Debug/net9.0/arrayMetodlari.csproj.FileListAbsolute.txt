@@ -1,0 +1,15 @@
+C:\Users\Asus\Desktop\gitRepo\CSharp\arrayMetodlari\bin\Debug\net9.0\arrayMetodlari.exe
+C:\Users\Asus\Desktop\gitRepo\CSharp\arrayMetodlari\bin\Debug\net9.0\arrayMetodlari.deps.json
+C:\Users\Asus\Desktop\gitRepo\CSharp\arrayMetodlari\bin\Debug\net9.0\arrayMetodlari.runtimeconfig.json
+C:\Users\Asus\Desktop\gitRepo\CSharp\arrayMetodlari\bin\Debug\net9.0\arrayMetodlari.dll
+C:\Users\Asus\Desktop\gitRepo\CSharp\arrayMetodlari\bin\Debug\net9.0\arrayMetodlari.pdb
+C:\Users\Asus\Desktop\gitRepo\CSharp\arrayMetodlari\obj\Debug\net9.0\arrayMetodlari.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\gitRepo\CSharp\arrayMetodlari\obj\Debug\net9.0\arrayMetodlari.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\gitRepo\CSharp\arrayMetodlari\obj\Debug\net9.0\arrayMetodlari.AssemblyInfo.cs
+C:\Users\Asus\Desktop\gitRepo\CSharp\arrayMetodlari\obj\Debug\net9.0\arrayMetodlari.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\gitRepo\CSharp\arrayMetodlari\obj\Debug\net9.0\arrayMetodlari.sourcelink.json
+C:\Users\Asus\Desktop\gitRepo\CSharp\arrayMetodlari\obj\Debug\net9.0\arrayMetodlari.dll
+C:\Users\Asus\Desktop\gitRepo\CSharp\arrayMetodlari\obj\Debug\net9.0\refint\arrayMetodlari.dll
+C:\Users\Asus\Desktop\gitRepo\CSharp\arrayMetodlari\obj\Debug\net9.0\arrayMetodlari.pdb
+C:\Users\Asus\Desktop\gitRepo\CSharp\arrayMetodlari\obj\Debug\net9.0\arrayMetodlari.genruntimeconfig.cache
+C:\Users\Asus\Desktop\gitRepo\CSharp\arrayMetodlari\obj\Debug\net9.0\ref\arrayMetodlari.dll
