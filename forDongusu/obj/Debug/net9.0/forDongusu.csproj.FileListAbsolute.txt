@@ -1,0 +1,15 @@
+C:\Users\Asus\Desktop\gitRepo\CSharp\forDongusu\bin\Debug\net9.0\forDongusu.exe
+C:\Users\Asus\Desktop\gitRepo\CSharp\forDongusu\bin\Debug\net9.0\forDongusu.deps.json
+C:\Users\Asus\Desktop\gitRepo\CSharp\forDongusu\bin\Debug\net9.0\forDongusu.runtimeconfig.json
+C:\Users\Asus\Desktop\gitRepo\CSharp\forDongusu\bin\Debug\net9.0\forDongusu.dll
+C:\Users\Asus\Desktop\gitRepo\CSharp\forDongusu\bin\Debug\net9.0\forDongusu.pdb
+C:\Users\Asus\Desktop\gitRepo\CSharp\forDongusu\obj\Debug\net9.0\forDongusu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\gitRepo\CSharp\forDongusu\obj\Debug\net9.0\forDongusu.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\gitRepo\CSharp\forDongusu\obj\Debug\net9.0\forDongusu.AssemblyInfo.cs
+C:\Users\Asus\Desktop\gitRepo\CSharp\forDongusu\obj\Debug\net9.0\forDongusu.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\gitRepo\CSharp\forDongusu\obj\Debug\net9.0\forDongusu.sourcelink.json
+C:\Users\Asus\Desktop\gitRepo\CSharp\forDongusu\obj\Debug\net9.0\forDongusu.dll
+C:\Users\Asus\Desktop\gitRepo\CSharp\forDongusu\obj\Debug\net9.0\refint\forDongusu.dll
+C:\Users\Asus\Desktop\gitRepo\CSharp\forDongusu\obj\Debug\net9.0\forDongusu.pdb
+C:\Users\Asus\Desktop\gitRepo\CSharp\forDongusu\obj\Debug\net9.0\forDongusu.genruntimeconfig.cache
+C:\Users\Asus\Desktop\gitRepo\CSharp\forDongusu\obj\Debug\net9.0\ref\forDongusu.dll
