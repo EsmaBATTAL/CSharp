@@ -1,0 +1,15 @@
+C:\Users\Asus\Desktop\gitRepo\CSharp\recursiveExtensionMetodlar\bin\Debug\net9.0\recursiveExtensionMetodlar.exe
+C:\Users\Asus\Desktop\gitRepo\CSharp\recursiveExtensionMetodlar\bin\Debug\net9.0\recursiveExtensionMetodlar.deps.json
+C:\Users\Asus\Desktop\gitRepo\CSharp\recursiveExtensionMetodlar\bin\Debug\net9.0\recursiveExtensionMetodlar.runtimeconfig.json
+C:\Users\Asus\Desktop\gitRepo\CSharp\recursiveExtensionMetodlar\bin\Debug\net9.0\recursiveExtensionMetodlar.dll
+C:\Users\Asus\Desktop\gitRepo\CSharp\recursiveExtensionMetodlar\bin\Debug\net9.0\recursiveExtensionMetodlar.pdb
+C:\Users\Asus\Desktop\gitRepo\CSharp\recursiveExtensionMetodlar\obj\Debug\net9.0\recursiveExtensionMetodlar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\gitRepo\CSharp\recursiveExtensionMetodlar\obj\Debug\net9.0\recursiveExtensionMetodlar.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\gitRepo\CSharp\recursiveExtensionMetodlar\obj\Debug\net9.0\recursiveExtensionMetodlar.AssemblyInfo.cs
+C:\Users\Asus\Desktop\gitRepo\CSharp\recursiveExtensionMetodlar\obj\Debug\net9.0\recursiveExtensionMetodlar.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\gitRepo\CSharp\recursiveExtensionMetodlar\obj\Debug\net9.0\recursiveExtensionMetodlar.sourcelink.json
+C:\Users\Asus\Desktop\gitRepo\CSharp\recursiveExtensionMetodlar\obj\Debug\net9.0\recursiveExtensionMetodlar.dll
+C:\Users\Asus\Desktop\gitRepo\CSharp\recursiveExtensionMetodlar\obj\Debug\net9.0\refint\recursiveExtensionMetodlar.dll
+C:\Users\Asus\Desktop\gitRepo\CSharp\recursiveExtensionMetodlar\obj\Debug\net9.0\recursiveExtensionMetodlar.pdb
+C:\Users\Asus\Desktop\gitRepo\CSharp\recursiveExtensionMetodlar\obj\Debug\net9.0\recursiveExtensionMetodlar.genruntimeconfig.cache
+C:\Users\Asus\Desktop\gitRepo\CSharp\recursiveExtensionMetodlar\obj\Debug\net9.0\ref\recursiveExtensionMetodlar.dll
