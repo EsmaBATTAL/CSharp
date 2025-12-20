@@ -1,0 +1,15 @@
+C:\Users\Asus\Desktop\gitRepo\CSharp\hazirStringMetodlari\bin\Debug\net9.0\hazirStringMetodlari.exe
+C:\Users\Asus\Desktop\gitRepo\CSharp\hazirStringMetodlari\bin\Debug\net9.0\hazirStringMetodlari.deps.json
+C:\Users\Asus\Desktop\gitRepo\CSharp\hazirStringMetodlari\bin\Debug\net9.0\hazirStringMetodlari.runtimeconfig.json
+C:\Users\Asus\Desktop\gitRepo\CSharp\hazirStringMetodlari\bin\Debug\net9.0\hazirStringMetodlari.dll
+C:\Users\Asus\Desktop\gitRepo\CSharp\hazirStringMetodlari\bin\Debug\net9.0\hazirStringMetodlari.pdb
+C:\Users\Asus\Desktop\gitRepo\CSharp\hazirStringMetodlari\obj\Debug\net9.0\hazirStringMetodlari.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\gitRepo\CSharp\hazirStringMetodlari\obj\Debug\net9.0\hazirStringMetodlari.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\gitRepo\CSharp\hazirStringMetodlari\obj\Debug\net9.0\hazirStringMetodlari.AssemblyInfo.cs
+C:\Users\Asus\Desktop\gitRepo\CSharp\hazirStringMetodlari\obj\Debug\net9.0\hazirStringMetodlari.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\gitRepo\CSharp\hazirStringMetodlari\obj\Debug\net9.0\hazirStringMetodlari.sourcelink.json
+C:\Users\Asus\Desktop\gitRepo\CSharp\hazirStringMetodlari\obj\Debug\net9.0\hazirStringMetodlari.dll
+C:\Users\Asus\Desktop\gitRepo\CSharp\hazirStringMetodlari\obj\Debug\net9.0\refint\hazirStringMetodlari.dll
+C:\Users\Asus\Desktop\gitRepo\CSharp\hazirStringMetodlari\obj\Debug\net9.0\hazirStringMetodlari.pdb
+C:\Users\Asus\Desktop\gitRepo\CSharp\hazirStringMetodlari\obj\Debug\net9.0\hazirStringMetodlari.genruntimeconfig.cache
+C:\Users\Asus\Desktop\gitRepo\CSharp\hazirStringMetodlari\obj\Debug\net9.0\ref\hazirStringMetodlari.dll
