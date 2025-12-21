@@ -1,0 +1,15 @@
+C:\Users\Asus\Desktop\gitRepo\CSharp\hazirDateTimeMathMetodlari\bin\Debug\net9.0\hazirDateTimeMathMetodlari.exe
+C:\Users\Asus\Desktop\gitRepo\CSharp\hazirDateTimeMathMetodlari\bin\Debug\net9.0\hazirDateTimeMathMetodlari.deps.json
+C:\Users\Asus\Desktop\gitRepo\CSharp\hazirDateTimeMathMetodlari\bin\Debug\net9.0\hazirDateTimeMathMetodlari.runtimeconfig.json
+C:\Users\Asus\Desktop\gitRepo\CSharp\hazirDateTimeMathMetodlari\bin\Debug\net9.0\hazirDateTimeMathMetodlari.dll
+C:\Users\Asus\Desktop\gitRepo\CSharp\hazirDateTimeMathMetodlari\bin\Debug\net9.0\hazirDateTimeMathMetodlari.pdb
+C:\Users\Asus\Desktop\gitRepo\CSharp\hazirDateTimeMathMetodlari\obj\Debug\net9.0\hazirDateTimeMathMetodlari.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\gitRepo\CSharp\hazirDateTimeMathMetodlari\obj\Debug\net9.0\hazirDateTimeMathMetodlari.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\gitRepo\CSharp\hazirDateTimeMathMetodlari\obj\Debug\net9.0\hazirDateTimeMathMetodlari.AssemblyInfo.cs
+C:\Users\Asus\Desktop\gitRepo\CSharp\hazirDateTimeMathMetodlari\obj\Debug\net9.0\hazirDateTimeMathMetodlari.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\gitRepo\CSharp\hazirDateTimeMathMetodlari\obj\Debug\net9.0\hazirDateTimeMathMetodlari.sourcelink.json
+C:\Users\Asus\Desktop\gitRepo\CSharp\hazirDateTimeMathMetodlari\obj\Debug\net9.0\hazirDateTimeMathMetodlari.dll
+C:\Users\Asus\Desktop\gitRepo\CSharp\hazirDateTimeMathMetodlari\obj\Debug\net9.0\refint\hazirDateTimeMathMetodlari.dll
+C:\Users\Asus\Desktop\gitRepo\CSharp\hazirDateTimeMathMetodlari\obj\Debug\net9.0\hazirDateTimeMathMetodlari.pdb
+C:\Users\Asus\Desktop\gitRepo\CSharp\hazirDateTimeMathMetodlari\obj\Debug\net9.0\hazirDateTimeMathMetodlari.genruntimeconfig.cache
+C:\Users\Asus\Desktop\gitRepo\CSharp\hazirDateTimeMathMetodlari\obj\Debug\net9.0\ref\hazirDateTimeMathMetodlari.dll
