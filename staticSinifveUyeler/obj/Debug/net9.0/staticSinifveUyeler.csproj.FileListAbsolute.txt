@@ -1,0 +1,15 @@
+C:\Users\Asus\Desktop\gitRepo\CSharp\staticSinifveUyeler\bin\Debug\net9.0\staticSinifveUyeler.exe
+C:\Users\Asus\Desktop\gitRepo\CSharp\staticSinifveUyeler\bin\Debug\net9.0\staticSinifveUyeler.deps.json
+C:\Users\Asus\Desktop\gitRepo\CSharp\staticSinifveUyeler\bin\Debug\net9.0\staticSinifveUyeler.runtimeconfig.json
+C:\Users\Asus\Desktop\gitRepo\CSharp\staticSinifveUyeler\bin\Debug\net9.0\staticSinifveUyeler.dll
+C:\Users\Asus\Desktop\gitRepo\CSharp\staticSinifveUyeler\bin\Debug\net9.0\staticSinifveUyeler.pdb
+C:\Users\Asus\Desktop\gitRepo\CSharp\staticSinifveUyeler\obj\Debug\net9.0\staticSinifveUyeler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\gitRepo\CSharp\staticSinifveUyeler\obj\Debug\net9.0\staticSinifveUyeler.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\gitRepo\CSharp\staticSinifveUyeler\obj\Debug\net9.0\staticSinifveUyeler.AssemblyInfo.cs
+C:\Users\Asus\Desktop\gitRepo\CSharp\staticSinifveUyeler\obj\Debug\net9.0\staticSinifveUyeler.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\gitRepo\CSharp\staticSinifveUyeler\obj\Debug\net9.0\staticSinifveUyeler.sourcelink.json
+C:\Users\Asus\Desktop\gitRepo\CSharp\staticSinifveUyeler\obj\Debug\net9.0\staticSinifveUyeler.dll
+C:\Users\Asus\Desktop\gitRepo\CSharp\staticSinifveUyeler\obj\Debug\net9.0\refint\staticSinifveUyeler.dll
+C:\Users\Asus\Desktop\gitRepo\CSharp\staticSinifveUyeler\obj\Debug\net9.0\staticSinifveUyeler.pdb
+C:\Users\Asus\Desktop\gitRepo\CSharp\staticSinifveUyeler\obj\Debug\net9.0\staticSinifveUyeler.genruntimeconfig.cache
+C:\Users\Asus\Desktop\gitRepo\CSharp\staticSinifveUyeler\obj\Debug\net9.0\ref\staticSinifveUyeler.dll
