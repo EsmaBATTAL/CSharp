@@ -1,0 +1,15 @@
+C:\Users\Asus\Desktop\gitRepo\CSharp\kurucuMetodlar\bin\Debug\net9.0\kurucuMetodlar.exe
+C:\Users\Asus\Desktop\gitRepo\CSharp\kurucuMetodlar\bin\Debug\net9.0\kurucuMetodlar.deps.json
+C:\Users\Asus\Desktop\gitRepo\CSharp\kurucuMetodlar\bin\Debug\net9.0\kurucuMetodlar.runtimeconfig.json
+C:\Users\Asus\Desktop\gitRepo\CSharp\kurucuMetodlar\bin\Debug\net9.0\kurucuMetodlar.dll
+C:\Users\Asus\Desktop\gitRepo\CSharp\kurucuMetodlar\bin\Debug\net9.0\kurucuMetodlar.pdb
+C:\Users\Asus\Desktop\gitRepo\CSharp\kurucuMetodlar\obj\Debug\net9.0\kurucuMetodlar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\gitRepo\CSharp\kurucuMetodlar\obj\Debug\net9.0\kurucuMetodlar.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\gitRepo\CSharp\kurucuMetodlar\obj\Debug\net9.0\kurucuMetodlar.AssemblyInfo.cs
+C:\Users\Asus\Desktop\gitRepo\CSharp\kurucuMetodlar\obj\Debug\net9.0\kurucuMetodlar.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\gitRepo\CSharp\kurucuMetodlar\obj\Debug\net9.0\kurucuMetodlar.sourcelink.json
+C:\Users\Asus\Desktop\gitRepo\CSharp\kurucuMetodlar\obj\Debug\net9.0\kurucuMetodlar.dll
+C:\Users\Asus\Desktop\gitRepo\CSharp\kurucuMetodlar\obj\Debug\net9.0\refint\kurucuMetodlar.dll
+C:\Users\Asus\Desktop\gitRepo\CSharp\kurucuMetodlar\obj\Debug\net9.0\kurucuMetodlar.pdb
+C:\Users\Asus\Desktop\gitRepo\CSharp\kurucuMetodlar\obj\Debug\net9.0\kurucuMetodlar.genruntimeconfig.cache
+C:\Users\Asus\Desktop\gitRepo\CSharp\kurucuMetodlar\obj\Debug\net9.0\ref\kurucuMetodlar.dll
