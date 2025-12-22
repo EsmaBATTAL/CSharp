@@ -1,0 +1,15 @@
+C:\Users\Asus\Desktop\gitRepo\CSharp\Odev2\KoleksiyonlarSoru1\bin\Debug\net9.0\KoleksiyonlarSoru1.exe
+C:\Users\Asus\Desktop\gitRepo\CSharp\Odev2\KoleksiyonlarSoru1\bin\Debug\net9.0\KoleksiyonlarSoru1.deps.json
+C:\Users\Asus\Desktop\gitRepo\CSharp\Odev2\KoleksiyonlarSoru1\bin\Debug\net9.0\KoleksiyonlarSoru1.runtimeconfig.json
+C:\Users\Asus\Desktop\gitRepo\CSharp\Odev2\KoleksiyonlarSoru1\bin\Debug\net9.0\KoleksiyonlarSoru1.dll
+C:\Users\Asus\Desktop\gitRepo\CSharp\Odev2\KoleksiyonlarSoru1\bin\Debug\net9.0\KoleksiyonlarSoru1.pdb
+C:\Users\Asus\Desktop\gitRepo\CSharp\Odev2\KoleksiyonlarSoru1\obj\Debug\net9.0\KoleksiyonlarSoru1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\gitRepo\CSharp\Odev2\KoleksiyonlarSoru1\obj\Debug\net9.0\KoleksiyonlarSoru1.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\gitRepo\CSharp\Odev2\KoleksiyonlarSoru1\obj\Debug\net9.0\KoleksiyonlarSoru1.AssemblyInfo.cs
+C:\Users\Asus\Desktop\gitRepo\CSharp\Odev2\KoleksiyonlarSoru1\obj\Debug\net9.0\KoleksiyonlarSoru1.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\gitRepo\CSharp\Odev2\KoleksiyonlarSoru1\obj\Debug\net9.0\KoleksiyonlarSoru1.sourcelink.json
+C:\Users\Asus\Desktop\gitRepo\CSharp\Odev2\KoleksiyonlarSoru1\obj\Debug\net9.0\KoleksiyonlarSoru1.dll
+C:\Users\Asus\Desktop\gitRepo\CSharp\Odev2\KoleksiyonlarSoru1\obj\Debug\net9.0\refint\KoleksiyonlarSoru1.dll
+C:\Users\Asus\Desktop\gitRepo\CSharp\Odev2\KoleksiyonlarSoru1\obj\Debug\net9.0\KoleksiyonlarSoru1.pdb
+C:\Users\Asus\Desktop\gitRepo\CSharp\Odev2\KoleksiyonlarSoru1\obj\Debug\net9.0\KoleksiyonlarSoru1.genruntimeconfig.cache
+C:\Users\Asus\Desktop\gitRepo\CSharp\Odev2\KoleksiyonlarSoru1\obj\Debug\net9.0\ref\KoleksiyonlarSoru1.dll
