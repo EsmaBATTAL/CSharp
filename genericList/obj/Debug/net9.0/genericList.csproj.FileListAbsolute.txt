@@ -1,0 +1,15 @@
+C:\Users\Asus\Desktop\gitRepo\CSharp\genericList\bin\Debug\net9.0\genericList.exe
+C:\Users\Asus\Desktop\gitRepo\CSharp\genericList\bin\Debug\net9.0\genericList.deps.json
+C:\Users\Asus\Desktop\gitRepo\CSharp\genericList\bin\Debug\net9.0\genericList.runtimeconfig.json
+C:\Users\Asus\Desktop\gitRepo\CSharp\genericList\bin\Debug\net9.0\genericList.dll
+C:\Users\Asus\Desktop\gitRepo\CSharp\genericList\bin\Debug\net9.0\genericList.pdb
+C:\Users\Asus\Desktop\gitRepo\CSharp\genericList\obj\Debug\net9.0\genericList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\gitRepo\CSharp\genericList\obj\Debug\net9.0\genericList.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\gitRepo\CSharp\genericList\obj\Debug\net9.0\genericList.AssemblyInfo.cs
+C:\Users\Asus\Desktop\gitRepo\CSharp\genericList\obj\Debug\net9.0\genericList.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\gitRepo\CSharp\genericList\obj\Debug\net9.0\genericList.sourcelink.json
+C:\Users\Asus\Desktop\gitRepo\CSharp\genericList\obj\Debug\net9.0\genericList.dll
+C:\Users\Asus\Desktop\gitRepo\CSharp\genericList\obj\Debug\net9.0\refint\genericList.dll
+C:\Users\Asus\Desktop\gitRepo\CSharp\genericList\obj\Debug\net9.0\genericList.pdb
+C:\Users\Asus\Desktop\gitRepo\CSharp\genericList\obj\Debug\net9.0\genericList.genruntimeconfig.cache
+C:\Users\Asus\Desktop\gitRepo\CSharp\genericList\obj\Debug\net9.0\ref\genericList.dll
