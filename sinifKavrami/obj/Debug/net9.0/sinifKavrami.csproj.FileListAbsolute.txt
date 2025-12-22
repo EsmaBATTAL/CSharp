@@ -1,0 +1,15 @@
+C:\Users\Asus\Desktop\gitRepo\CSharp\sinifKavrami\bin\Debug\net9.0\sinifKavrami.exe
+C:\Users\Asus\Desktop\gitRepo\CSharp\sinifKavrami\bin\Debug\net9.0\sinifKavrami.deps.json
+C:\Users\Asus\Desktop\gitRepo\CSharp\sinifKavrami\bin\Debug\net9.0\sinifKavrami.runtimeconfig.json
+C:\Users\Asus\Desktop\gitRepo\CSharp\sinifKavrami\bin\Debug\net9.0\sinifKavrami.dll
+C:\Users\Asus\Desktop\gitRepo\CSharp\sinifKavrami\bin\Debug\net9.0\sinifKavrami.pdb
+C:\Users\Asus\Desktop\gitRepo\CSharp\sinifKavrami\obj\Debug\net9.0\sinifKavrami.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\gitRepo\CSharp\sinifKavrami\obj\Debug\net9.0\sinifKavrami.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\gitRepo\CSharp\sinifKavrami\obj\Debug\net9.0\sinifKavrami.AssemblyInfo.cs
+C:\Users\Asus\Desktop\gitRepo\CSharp\sinifKavrami\obj\Debug\net9.0\sinifKavrami.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\gitRepo\CSharp\sinifKavrami\obj\Debug\net9.0\sinifKavrami.sourcelink.json
+C:\Users\Asus\Desktop\gitRepo\CSharp\sinifKavrami\obj\Debug\net9.0\sinifKavrami.dll
+C:\Users\Asus\Desktop\gitRepo\CSharp\sinifKavrami\obj\Debug\net9.0\refint\sinifKavrami.dll
+C:\Users\Asus\Desktop\gitRepo\CSharp\sinifKavrami\obj\Debug\net9.0\sinifKavrami.pdb
+C:\Users\Asus\Desktop\gitRepo\CSharp\sinifKavrami\obj\Debug\net9.0\sinifKavrami.genruntimeconfig.cache
+C:\Users\Asus\Desktop\gitRepo\CSharp\sinifKavrami\obj\Debug\net9.0\ref\sinifKavrami.dll
